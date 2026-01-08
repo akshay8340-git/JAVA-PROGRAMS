@@ -10,7 +10,8 @@ class Local
 		}
 		
 		{
-			int a = 20; // here variable name is same as above block but it is in different block so its allowed.
+			
+			int a = 200; // here variable name is same as above block but it is in different block so its allowed.
 			System.out.println(a);
 		}
 		
