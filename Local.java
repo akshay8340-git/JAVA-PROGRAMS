@@ -5,7 +5,7 @@ class Local
 	{
 	
 		{
-			int a = 10; // local variable here this is visible within this block only.
+			int a = 100; // local variable here this is visible within this block only.
 			System.out.println(a);
 		}
 		
