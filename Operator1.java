@@ -1,4 +1,4 @@
-class Operator1
+class Operators
 {
 
     public static void main(String[]args)
